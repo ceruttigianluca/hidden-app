@@ -1,6 +1,6 @@
 # Hidden App
 
-![Hidden App icon](http://www.laboratoriociliegia.it/github/hidden-app-icon.png)<br>
+![Hidden App icon](http://www.laboratoriociliegia.it/github/hidden-app-icon-small.png)<br>
 Hidden App is a very simple app for **developers** that allows you to **show and hide macOS hidden files** in just **one click**.<br>
 Hidden App is an Automator app that run this shell script:<br>
 ```sh
